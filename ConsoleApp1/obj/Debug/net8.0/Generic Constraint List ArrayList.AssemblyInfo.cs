@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Generic Constraint List ArrayList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a787e4b902d0a2abe8916e57df7c7102c8c43c3e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26a1a623dca1c76611649854cef6d30d46e56c23")]
 [assembly: System.Reflection.AssemblyProductAttribute("Generic Constraint List ArrayList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Generic Constraint List ArrayList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
