@@ -13,10 +13,14 @@ namespace ConsoleApp1.Models
         public string Name { get; set; }
         public string Surname { get; set; }
         public int Age { get; set; }    
-        protected Person()
+        protected Person(string name,string surname,double point)
         {
-        _id = ++IdCounter;
+            _id = ++IdCounter;
+            Name = name;
+            Surname = surname;
+            
         }
+
 
         public override string ToString()
         {
